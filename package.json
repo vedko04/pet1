@@ -1,0 +1,14 @@
+{
+  "name": "pet2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedko04/pet1.git"
+  },
+  "private": true
+}
